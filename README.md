@@ -1,1 +1,0 @@
-# soozhub-hackathon
