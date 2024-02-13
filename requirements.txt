@@ -24,7 +24,7 @@ ipython==7.28.0  # Adjusted version compatible with Python 3.9
 jedi==0.19.1
 kiwisolver==1.4.5
 lxml==4.8.0  # Adjusted version compatible with other dependencies
- #matplotlib==3.5.0  # Adjusted version compatible with other dependencies
+#matplotlib==3.5.0  # Adjusted version compatible with other dependencies
 multitasking==0.0.11
 #numpy==1.21.5  # Adjusted version compatible with other dependencies
 packaging==23.2
@@ -54,4 +54,4 @@ tzdata==2024.1
 urllib3==1.26.8  # Adjusted version compatible with other dependencies
 wcwidth==0.2.13
 webencodings==0.5.1
-yfinance==0.1.63  # Adjusted version compatible with other dependencies
+#yfinance==0.1.63  # Adjusted version compatible with other dependencies
